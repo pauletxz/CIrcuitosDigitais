@@ -1,5 +1,5 @@
-# Primeiro Trabalho
+# Primeiro Trabalho Circuitos Digitais
 
 ## Integrantes
-- **Nome do Participante 1**
+- **Davi Costa Alves**
 - **Paulo Henrique Souza Lima**
